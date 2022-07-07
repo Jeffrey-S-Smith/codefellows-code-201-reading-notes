@@ -1,7 +1,3 @@
-#201 Reading Notes Class01
-##Author:
-Jeffrey Smith
-
 ## Getting Started
 
 1. Compose a short poem describing how HTTP sends data between computers.

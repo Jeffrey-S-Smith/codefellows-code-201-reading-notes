@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-- [ReadingClass 1](#fragment)
+- [Class-01](https://github.com/Jeffrey-S-Smith/codefellows-code-201-reading-notes/blob/main/class-01.md)
 - [ReadingClass 2](#fragment)
 - [ReadingClass 3](#fragment)
 - [ReadingClass 4](#fragment)
