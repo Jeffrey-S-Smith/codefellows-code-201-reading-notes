@@ -50,9 +50,19 @@
     * An attribute value, wrapped with opening and closing quote marks.
 
  2. Describe the Anatomy of an HTMl element
- HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;
-    <span style="color:grey">
-        \<!DOCTYPE html></span>
+ HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;  
+     <span style="color:grey">
+        \<!DOCTYPE html>
+        \<html>
+            \<head>
+                \<meta charset="utf-8">
+                \<title>My test page\</title>
+            \</head>
+                \<body>
+                    \<p>This is my page\</p>
+                \</body>  
+        \</html>
+    </span>
  We Have:&nbsp;  
     1. \<!DOCTYPE html>: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML. Doctypes used to look something like this:&nbsp;  
 \<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -65,7 +75,6 @@ More recently, the doctype is a historical artifact that needs to be included fo
     4. \<meta charset="utf-8">: The \<meta> element. This element represents metadata that cannot be represented by other HTML meta-related elements, like \<base>, \<link>, \<script>, \<style> or \<title>. The charset attributes sets the character set for your document to UTF-8, which includes most characters from the vast majority of human written languages. With this setting, the page can now handle any textual content it might contain. There is no reason not to set this, and it can help avoid some problems later.
     5. \<title></title>: The \<title> element. This sets the title of the page, which is the title that appears in the browser tab the page is loaded in. The page title is also used to describe the page when it is bookmarked.
     6. \<body></body>: The \<body> element. This contains all the content that displays on the page, including text, images, videos, games, playable audio tracks, or whatever else.
-
 
  3. What is the Difference between \<article> and \<section> element tags?
  4. What Elements does a “typical” website include?
