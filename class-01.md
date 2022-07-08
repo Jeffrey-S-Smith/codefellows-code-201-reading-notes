@@ -29,7 +29,7 @@
 
 4. How do you create a String vs a Number in JavaScript?
 
-    In Javascript you create a string by (var, const, let) myVariable = 'Hello';&nbsp;
+    In Javascript you create a string by (var, const, let) myVariable = 'Hello';&nbsp;  
     In Javascript you create a number by (var, const, let) myVariable = 6;
 
 5. What is a Variable and why are they important in JavaScript?
