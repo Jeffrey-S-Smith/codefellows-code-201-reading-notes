@@ -50,7 +50,8 @@
     * An attribute value, wrapped with opening and closing quote marks.
 
  2. Describe the Anatomy of an HTMl element
- HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:  
+ HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;
+
      <!DOCTYPE html>
          <html>
             <head>
