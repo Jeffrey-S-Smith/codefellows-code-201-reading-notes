@@ -38,13 +38,8 @@
 
     Variables are necessary to do anything interesting in programming. If values couldn't change, then you couldn't do anything dynamic, like personalize a greeting message or change an image displayed in an image gallery.
 
-### Resources used:
-[How the Web Works. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works),
-[Website Design and Process. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like),
-[JavaScript Basics. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
-
 ## Introduction to HTML
- 
+
  1. What is an HTML attribute?
  2. Describe the Anatomy of an HTMl element
  3. What is the Difference between \<article> and \<section> element tags?
@@ -52,6 +47,35 @@
  5. How does metadata influence Search Engine Optimization?
  6. How is the \<meta> HTML tag used when specifying metadata?
 
- ## Questions or Comments (If no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.) 
+## Miscellaneous
 
- ## Things I want to know more about.
+1. What is the first step to designing a Website?
+2. What is the most important question to answer when designing a Website?
+
+### Semantics
+
+1. Why should you use an \<h1> element over a \<span> element to display a top level heading?
+
+2. What are the benefits of using semantic tags in our HTML?
+
+### JavaScript
+
+1. Describe 2 things that require JavaScript in the Browser?
+
+2. How can you add JavaScript to an HTML document?
+
+## Questions or Comments (If no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.)
+
+## Things I want to know more about
+
+### Resources used
+
+[How the Web Works. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works),
+[Website Design and Process. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like),
+[JavaScript Basics. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics),
+[Getting started with HTML. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started),
+[Document and website structure. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure),
+[Metadata in HTML. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML),
+[How to start to deign a website. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding),
+[Semantics. mdn web docs_](https://developer.mozilla.org/en-US/docs/Glossary/Semantics),
+[JavaScript. mdn web docs_](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
