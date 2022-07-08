@@ -51,15 +51,14 @@
 
  2. Describe the Anatomy of an HTMl element
  HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;  
-    \<!DOCTYPE html>
-\<html>
-  \<head>
-    \<meta charset="utf-8">
-    \<title>My test page</title>
-  \</head>
-  \<body>
-    \<p>This is my page</p>
-  \</body>
+    \<!DOCTYPE html>\<html>&nbsp;  
+  \<head>&nbsp;  
+    \<meta charset="utf-8">&nbsp;  
+    \<title>My test page</title>&nbsp;  
+  \</head>&nbsp;  
+  \<body>&nbsp;  
+    \<p>This is my page</p>&nbsp;  
+  \</body>&nbsp;  
 \</html>&nbsp;  
 We Have:&nbsp;  
     1. \<!DOCTYPE html>: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML. Doctypes used to look something like this:&nbsp;  
