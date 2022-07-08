@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1. Compose a short poem describing how HTTP sends data between computers.
+1. Compose a short poem describing how HTTP sends data between computers.&nbsp;  
     HTTP is Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers so they can speak to each other. This is like the language we use to order our goods.
 
     When you type a web address into your browser (for an analogy like walking to the shop).
