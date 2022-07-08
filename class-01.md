@@ -50,7 +50,7 @@
     * An attribute value, wrapped with opening and closing quote marks.
 
  2. Describe the Anatomy of an HTMl element
- HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;  
+ HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:  
      <!DOCTYPE html>
          <html>
             <head>
@@ -60,7 +60,7 @@
                 <body>
                     <p>This is my page\</p>
                 </body>  
-        </html>&nbsp; 
+        </html>
      We Have:&nbsp;  
     1. \<!DOCTYPE html>: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML. Doctypes used to look something like this:&nbsp;  
 \<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
