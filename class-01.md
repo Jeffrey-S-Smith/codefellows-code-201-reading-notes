@@ -53,15 +53,15 @@
  HTML elements aren't very useful on their own. Next, let's examine how individual elements combine to form an entire HTML page:&nbsp;
 
      \<!DOCTYPE html>
-       <html>
-           <head>
-                <meta charset="utf-8">
-               <title>My test page</title>
-          </head>
-              <body>
-                   <p>This is my page\</p>
-               </body>  
-        </html>\
+       \<html>
+          \ <head>
+              \ <meta charset="utf-8">
+              \ <title>My test page</title>
+          \</head>
+              \<body>
+                  \ <p>This is my page</p>
+               \</body>  
+        \</html>
      We Have:&nbsp;  
     1. \<!DOCTYPE html>: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML. Doctypes used to look something like this:&nbsp;  
 \<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
@@ -160,11 +160,12 @@ More recently, the doctype is a historical artifact that needs to be included fo
 
     You can add JavaScript to an HTML document using the \<script> tag.
 
-
 ## Questions or Comments (If no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.)
+
 Question: How to start a design structure for a website keep a schudule on task keep it simple and not go over board and over whelm and never start.
 
 ## Things I want to know more about
+
 I would like to know more about start to design a website. Like the structure to keep a schudule of getting things done.
 
 ### Resources used
