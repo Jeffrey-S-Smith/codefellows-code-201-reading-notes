@@ -65,7 +65,7 @@
      We Have:&nbsp;  
     1. \<!DOCTYPE html>: The doctype. When HTML was young (1991-1992), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML. Doctypes used to look something like this:&nbsp;  
 \<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">&nbsp;  
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" 
 More recently, the doctype is a historical artifact that needs to be included for everything else to work right. \<!DOCTYPE html> is the shortest string of characters that counts as a valid doctype. That is all you need to know!
 
     2. \<html></html>: The \<html> element. This element wraps all the content on the page. It is sometimes known as the root element.
