@@ -10,7 +10,7 @@
 
 3. What are some uses for the \<sup> and \<sub> elements?
 
-* When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?
+4. When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?
 
 ## Learn CSS
 
@@ -19,9 +19,9 @@
 2. Why should we avoid using inline styles?
 
 3. Review the block of code below and answer the following questions:
-  1. What is representing the selector?
-  2. Which components are the CSS declarations?
-  3. Which components are considered properties?
+    1. What is representing the selector?
+    2. Which components are the CSS declarations?
+    3. Which components are considered properties?
 
   \h2 {
      color: black;
