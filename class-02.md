@@ -23,9 +23,9 @@
     2. Which components are the CSS declarations?
     3. Which components are considered properties?
 
-  \h2 {
-     color: black;
-     padding: 5px;
+  \h2 {&nbsp;  
+     color: black;&nbsp;  
+     padding: 5px;&nbsp;  
    }
 
 ## Learn JS
