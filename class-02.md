@@ -18,9 +18,9 @@ There six levels of headings in HTML.
 
 \<sup> element is a  HTML element specifies inline text which is to be displayed as superscript for solely typographical reasons. Superscripts are usually rendered with a raised baseline using smaller text.
 
-The <sup> element should only be used for typographical reasons—that is, to change the position of the text to comply with typographical conventions or standards, rather than solely for presentation or appearance purposes.
+The \<sup> element should only be used for typographical reasons—that is, to change the position of the text to comply with typographical conventions or standards, rather than solely for presentation or appearance purposes.
 
-Appropriate use cases for <sup> include (but aren't necessarily limited to):
+Appropriate use cases for \<sup> include (but aren't necessarily limited to):
 
 * Displaying exponents, such as "x 3 ." It may be worth considering the use of MathML for these, especially in more complex cases
 * Displaying superior lettering, which is used in some languages when rendering certain abbreviations. For example, in French, the word "mademoiselle" can be abbreviated "M lle "); this is an acceptable use case.
@@ -41,6 +41,8 @@ Appropriate use cases for \<sub> include (but aren't necessarily limited to):
 * enoting the number of atoms of a given element within a chemical formula (such as every developer's best friend, C 8 H 10 N 4 O 2 , otherwise known as "caffeine").
 
 4. When using the \<abbr> element, what attribute must be added to provide the full expansion of the term?
+
+The \<dfn> attribute must be added to provide the full expansion of the term.
 
 ## Learn CSS
 
@@ -101,11 +103,29 @@ else if statement to specify a new condition if the first condition is false.
 
 3. List 3 different types of comparison operators.
 
+* (<) less than
+
+* (<) greater than
+
+* (==) compares operands
+
+* (!~) does not contain
+
 4. What is the difference between the logical operator && and ||?
+
+&& operator only returns true when both of its operands are true (and false in all other cases)
+
+|| operator only returns false when both of its operands are false (and true in all other cases).
 
 ### If there are no questions provided, summarize and explain this topic via an analogy from your previous work or home experience
 
+What is the best way to understand logical operator? when you use which one.
+Need better understanding when to use === and == ?
+
 ### Things I want to know more about
+
+More about logical operator && and ||. I struggle with concepts. 
+I struggle with when to use === and == .
 
 ## Reading Sources
 
