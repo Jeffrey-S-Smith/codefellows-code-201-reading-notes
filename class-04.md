@@ -31,3 +31,12 @@
 ### Pair Programming
 
 1. Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+
+## Questions or Comments (If no questions provided, summarize and explain this topic via an analogy from your previous work or home experience.)
+
+
+## Things I want to know more about
+
+
+
+### Resources used
