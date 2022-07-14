@@ -75,7 +75,7 @@ For \<link> elements, the href attribute specifies the location (URL) of the ext
 Want to know more about functions little week in that are?
 
 ## Things I want to know more about
-Want to know more about functions little week in that are?
+Want to know more about functions little weak in that are?
 
 
 ### Resources used
