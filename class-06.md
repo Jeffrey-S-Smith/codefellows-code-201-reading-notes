@@ -39,4 +39,4 @@ const dog = {
 [Introduction to the DOM. mdn web docs_](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction),
 [JavaScript Basics. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics),
 [What’s the difference between primitive values and object references in JavaScript? by Chris Geelhoed](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b),
-[Understanding The Problem Domain Is The Hardest Part Of Programming? by John Sonmez](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming),
+[Understanding The Problem Domain Is The Hardest Part Of Programming? by John Sonmez](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
