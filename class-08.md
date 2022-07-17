@@ -25,4 +25,4 @@
 [Learn CSS - Flexbox. by Web.dev](https://web.dev/learn/css/flexbox/),
 [HTML Table Basics. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics),
 [Flexbox. mdn web docs_](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors),
-[Learn CSS - Layout. by by Web.dev](https://web.dev/learn/css/layout/)
+[Learn CSS - Layout. by Web.dev](https://web.dev/learn/css/layout/)
